@@ -1,0 +1,3 @@
+*.exe
+plugin/packer_compiled.lua
+*.log
